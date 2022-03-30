@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Counter-with-React-Context/static/css/main.5a2c5870.css",
+    "main.js": "/Counter-with-React-Context/static/js/main.96d9eda9.js",
+    "index.html": "/Counter-with-React-Context/index.html",
+    "main.5a2c5870.css.map": "/Counter-with-React-Context/static/css/main.5a2c5870.css.map",
+    "main.96d9eda9.js.map": "/Counter-with-React-Context/static/js/main.96d9eda9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a2c5870.css",
+    "static/js/main.96d9eda9.js"
+  ]
+}
